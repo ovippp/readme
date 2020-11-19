@@ -30,4 +30,4 @@ If you want to get started with the Trality Code Editor right away then visit ou
 
 If code is not your thing and you prefer to build trading bots without needing a single line of code, check out the [Rule Builder Quick Start pages](https://docs.trality.com/quick-start/rule)
 
-For all other our [documentation](https://docs.trality.com) will help you as well!
+For all other questions, our [documentation](https://docs.trality.com) will help you as well!
